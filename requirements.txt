@@ -1,0 +1,6 @@
+bottle==0.12.9
+fanstatic==0.16
+js.json==20110223
+virtualenv==13.1.2
+WebOb==1.5.1
+wheel==0.26.0

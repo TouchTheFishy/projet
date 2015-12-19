@@ -1,0 +1,93 @@
+{
+  "dexter": {
+    "Season": "8",
+    "couleurtexte": "white",
+    "episode": "9",
+    "name": "Dexter",
+    "pagename": "dexter",
+    "url": "http://localhost:1320/serie/dexter",
+    "urlimage": "http://www.tvqc.com/wp-content/uploads/2013/07/dexter_season_8_wallpaper_hd_2_by_inickeon-d6671eu.jpg"
+  },
+  "falsky": {
+    "Season": "1",
+    "couleurtexte": "white",
+    "episode": "5",
+    "name": "Falling Skies",
+    "pagename": "falsky",
+    "url": "http://localhost:1320/serie/falsky",
+    "urlimage": "http://insider-publications.com/wp-content/uploads/2014/09/FallingSkiesWallpaper2.jpg"
+  },
+  "fringe": {
+    "Season": 8,
+    "couleurtexte": "#FFBF00",
+    "episode": 3,
+    "name": "Fringe",
+    "pagename": "fringe",
+    "url": "http://localhost:1320/serie/fringe",
+    "urlimage": "http://dailystache.net/wp-content/uploads/2013/11/Fringe.jpg"
+  },
+  "got": {
+    "Season": "6",
+    "couleurtexte": "white",
+    "episode": "4",
+    "name": "Game Of Thrones",
+    "pagename": "got",
+    "url": "http://localhost:1320/serie/got",
+    "urlimage": "http://www.journaldugeek.com/wp-content/blogs.dir/1/files/2015/07/game-of-thrones-saison-5-documentaire.jpg"
+  },
+  "gotham": {
+    "Season": "2",
+    "couleurtexte": "white",
+    "episode": "3",
+    "name": "Gotham",
+    "pagename": "gotham",
+    "url": "http://localhost:1320/serie/gotham",
+    "urlimage": "http://www.entertainmentwallpaper.com/images/res1920x1080/movie/tv-gotham12.jpg"
+  },
+  "himym": {
+    "Season": "15",
+    "couleurtexte": null,
+    "episode": "3",
+    "name": "How I Met Your Mother",
+    "pagename": "himym",
+    "url": "http://localhost:1320/serie/himym",
+    "urlimage": "http://img0.gtsstatic.com/wallpapers/6a7a2700c1414a9a7d7c1baf1e3b52a9_large.jpeg"
+  },
+  "house": {
+    "Season": "6",
+    "couleurtexte": "white",
+    "episode": "4",
+    "name": "Dr House",
+    "pagename": "house",
+    "url": "http://localhost:1320/serie/house",
+    "urlimage": "http://localhost:1320/static/house.jpg"
+  },
+  "menta": {
+    "Season": "3",
+    "couleurtexte": "red",
+    "episode": "3",
+    "name": "Mentalist",
+    "pagename": "menta",
+    "url": "http://localhost:1320/serie/menta",
+    "urlimage": "http://img0.ndsstatic.com/wallpapers/df161ca3f344cefcb7be85edf42f0737_large.jpeg"
+  },
+  "suprnat": {
+    "Season": 8,
+    "couleurtexte": "white",
+    "episode": 3,
+    "name": "Supernatural",
+    "pagename": "suprnat",
+    "url": "http://localhost:1320/serie/suprnat",
+    "urlimage": "http://img0.ndsstatic.com/wallpapers/fa4b730698ec612645e3ec52bc5cf19f_large.jpeg"
+  },
+  "td": {
+    "Season": "6",
+    "couleurtexte": "white",
+    "episode": "4",
+    "name": "True Detective",
+    "pagename": "td",
+    "url": "http://localhost:1320/serie/td",
+    "urlimage": "http://www.avoir-alire.com/IMG/jpg/true-detective_-_pic1.jpg"
+  }
+
+}
